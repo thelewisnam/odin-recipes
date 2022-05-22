@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first major project on Github. Considering my background in physical education and health, I think I've done a great job so far in terms of putting myself outside of my comfort zone and exploring new topics to learn. This project can determine how far I can go into software development. I might change careers because of the Odin Project, but who knows what is in store for me at this point. I am willing to grind every single day to see big changes.
